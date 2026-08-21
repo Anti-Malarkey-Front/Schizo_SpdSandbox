@@ -335,6 +335,10 @@ Decreased science by 1.
 - @decreaseddprel: Decrease Relations With The DDP/DStP
 - @increasedvprel: Increase Relations With The DVP
 - @decreasedvprel: Decrease Relations With The DVP
+- @increasednvprel: Increase Relations With The DNVP
+- @decreasednvprel: Decrease Relations With The DNVP
+- @increasensdaprel: Increase Relations With The NSDAP
+- @decreasensdaprel: Decrease Relations With The NSDAP
 - @removedissent: Remove Coalition Dissent
 - @maxdissent: Maximise Coalition Dissent
 - @returnsandbox: Return To Sandbox Menu
